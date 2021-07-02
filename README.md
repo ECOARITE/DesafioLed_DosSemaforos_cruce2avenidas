@@ -1,0 +1,2 @@
+# DesafioLed_DosSemaforos_cruce2avenidas
+Se trata de dos semáforos, uno para la Av. Principal y otro para la Av. Secundaria, cada semáforo cuenta aparte de las tres luces normales (Verde, Ámbar, Rojo) con una luz Azul de señalización para indicar el giro a la derecha de los vehículos, además cuenta con pulsador (uno en cada avenida) para cambiar(disminuir el tiempo) el estado de la luz verde a Rojo y darles paso a los peatones
